@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SSH in local networks"
+categories: ssh
+---
+
+This is how I would set up ssh in a local network
+
+**First, this post assumes that you have ssh server installed, on whatever machine you are using.**
+
+![ssh install](../assets/ssh.png)
