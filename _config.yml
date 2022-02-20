@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Absozero's blog
+title: Absozero's journal
 email: azermazer165@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Absozero's blog and this blog will document all of the activities and things that Absozero would like to talk about.
+  This is Absozero's blog and their journal on the web and this blog will document all of the activities and things that Absozero would like to talk about.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://absozero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: absozero0

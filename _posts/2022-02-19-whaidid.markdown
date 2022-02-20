@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring multiple fields"
+categories: projects
+---
+
+I love software and all of the cool things that are possible with it. So much so that I like to mess around in multiple areas and code in different environments. However, 2 main topics will always have my interest and my work put into it, and those are the browser and the desktop
+
+- For example, I love to go
