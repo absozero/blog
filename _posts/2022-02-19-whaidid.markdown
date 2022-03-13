@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Exploring multiple fields"
 categories: projects
 ---
@@ -16,4 +16,4 @@ I also research and see  alot of blog posts about this topic. In fact, the amoun
 
 ![jekyll](/blog/assets/jekyll.png)
 
-Due to there being so much FOSS software I could use, I was sometimes confused and having to make a choice between different products was not fun. Though, I managed to setup a workflow that fits me, but my drive to find new and cool tools will probably never be satisfied, and I will keep searching.
+Due to there being so much FOSS software I could use, I was sometimes confused and having to make a choice between different products was not fun. Though, I managed to setup a workflow that fits me, but my drive to find new and cool tools will probably never be satisfied, and I will keep searching. Websearching to find cool tools to further improve my workflow was very fruit
