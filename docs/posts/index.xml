@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2023 20:01:33 -0800</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic SSH guide</title>
+      <link>https://example.org/posts/ssh/</link>
+      <pubDate>Mon, 04 Dec 2023 20:01:33 -0800</pubDate>
+      
+      <guid>https://example.org/posts/ssh/</guid>
+      <description>This is how I would set up ssh in a local network
+First, this post assumes that you have ssh server installed, on whatever machine you are using.
+After installing the openssh-server package onto your device, make sure that it is activated by using:
+sshd as a root user in linux/macos or
+Start-service sshd In an admin powershell
+Next steps Once that is done, you can use another terminal-ready device or an ssh client to connect to the remote linux server.</description>
+    </item>
+    
+    <item>
+      <title>FOSS Software</title>
+      <link>https://example.org/posts/foss/</link>
+      <pubDate>Mon, 04 Dec 2023 20:01:33 -0800</pubDate>
+      
+      <guid>https://example.org/posts/foss/</guid>
+      <description>I love software and all of the cool things that are possible with it. So much so that I like to mess around in multiple areas and code in different environments. However, 2 main topics will always have my interest and my work put into it, and those are the browser and the desktop
+For example, I love to go to Github and search for repos that could help my workflow.</description>
+    </item>
+    
+    <item>
+      <title>Solus</title>
+      <link>https://example.org/posts/solus/</link>
+      <pubDate>Mon, 04 Dec 2023 20:01:33 -0800</pubDate>
+      
+      <guid>https://example.org/posts/solus/</guid>
+      <description>Solus is a project I have been looking at and contributing to recently - it is a machine learning project that aims to create a fully end-to-end project after being given a specific spec and instructions to follow.
+Solus is created and maintained by CSX Labs, a collection of open reseach laboratories, who are committed to building software to benifit humanity.
+By making a project like solus, which is a ai-based project generator, open source, it can cause the growth of AI into software development areas, and this project can be contributed to by anybody willing to contribute and help grow the project.</description>
+    </item>
+    
+  </channel>
+</rss>
